@@ -1,0 +1,6 @@
+# ⚙️ Jekyllの基本設定
+title: "ワイドミュラー u-remote 簡易接続マニュアル"
+description: "リモートI/Oと各種PLCの接続手順書"
+theme: jekyll-theme-primer # GitHub Pagesで標準サポートされているスッキリしたテーマの土台
+markdown: kramdown
+permalink: /:basename/
